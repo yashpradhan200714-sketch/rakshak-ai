@@ -1,0 +1,9 @@
+{
+  "name": "Rakshak AI",
+  "description": "A community-powered emergency response platform connecting people in distress with nearby helpers using AI guidance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
