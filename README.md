@@ -38,3 +38,8 @@ Rakshak AI transforms **ordinary citizens into first responders**, reducing resp
 The Rakshak AI name, logo, design, and associated materials are the exclusive
 intellectual property of the Rakshak AI team. Unauthorized use, reproduction,
 or distribution of any part of this project without permission is prohibited.
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+See the [LICENSE](./LICENSE) file for details.
